@@ -3,15 +3,13 @@
 BYCEPS is the Bring-Your-Computer Event Processing System.
 
 It is **a tool to prepare and operate a LAN party**, both online on the
-Internet and locally as an intranet system, for both organizers and
-attendees.
+Internet and locally as an intranet system, for both organizers and attendees.
 
 
 ## Installation
 
-For the time being, BYCEPS cannot be installed with
-`pip install byceps` from PyPI. Please see the website to learn how to
-install it.
+For the time being, BYCEPS cannot be installed with `pip install byceps` from
+PyPI. Please see the website to learn how to install it.
 
 
 ## Website
