@@ -19,7 +19,6 @@ classifiers = [
     "Programming Language :: JavaScript",
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
     "Programming Language :: Python :: 3.13",
     "Topic :: Communications",
@@ -28,7 +27,7 @@ classifiers = [
     "Topic :: Internet :: WWW/HTTP :: Dynamic Content :: Message Boards",
     "Topic :: Internet :: WWW/HTTP :: Dynamic Content :: News/Diary",
 ]
-requires-python = ">=3.11"
+requires-python = ">=3.12"
 
 [project.scripts]
 byceps = "byceps:main"
