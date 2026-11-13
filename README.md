@@ -2,8 +2,14 @@
 
 BYCEPS is the Bring-Your-Computer Event Processing System.
 
-It is **a tool to prepare and operate a LAN party**, both online on the
-Internet and locally as an intranet system, for both organizers and attendees.
+It is a mature self-hosted, web-based **tool to prepare and operate a LAN
+party**, both for Internet websites and locally as an intranet system, for both
+organizers and attendees.
+
+Trusted by LAN party series running for decades (including
+[NorthCon](https://www.northcon.de/) and
+[LANresort](https://www.lanresort.de/)) it has been used to run more than 40
+parties so far.
 
 
 ## Installation
