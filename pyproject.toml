@@ -35,7 +35,9 @@ byceps = "byceps:main"
 [project.urls]
 Homepage = "https://byceps.nwsnet.de/"
 Documentation = "https://byceps.readthedocs.io/"
-Repository = "https://github.com/byceps/byceps"
+"Repository at GitHub" = "https://github.com/byceps/byceps"
+"Repository at Sourcehut" = "https://git.sr.ht/~homeworkprod/byceps"
+"Repository at Codeberg" = "https://codeberg.org/byceps/byceps"
 
 [build-system]
 requires = ["uv_build>=0.13.8,<0.14"]
